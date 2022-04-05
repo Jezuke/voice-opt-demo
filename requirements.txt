@@ -1,3 +1,4 @@
+audioplayer==0.6
 PyQt6==6.2.3
 PyQt6-Qt6==6.2.4
 PyQt6-sip==13.2.1
