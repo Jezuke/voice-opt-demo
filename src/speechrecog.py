@@ -13,9 +13,8 @@ def SpeakText(command):
     
 
     if(command=='hey'):
-        engine.say('Sup bitch.')
+        engine.say('Sup.')
     if(command=='how are you doing'):
-        engine.say('Fuck off cunt.')
         engine.say('Im doing alright')
     if(command=='list voices'):
         engine.say('Here are the list of voices')
